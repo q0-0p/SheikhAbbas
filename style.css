@@ -9,7 +9,7 @@
 }
 
 .scheduale{
-    
+    min-width:1500px;
     margin:0 auto;
    
     display:inline-block;
@@ -20,7 +20,17 @@
 display:inline-block;
 top:0;
 color:white;
+
+
+
 }
+.legend p{
+    font-size:70px;
+    text-align:center;
+    white-space: nowrap;
+    
+}
+
 tr{
     
     border: 1px solid #ddd;
@@ -53,7 +63,7 @@ background-color:green;
 }
 html{
     background-color:black;
-    font-size: 40px;
+    font-size: 34px;
     
 }
 .tajweednisataqwa{
