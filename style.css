@@ -1,0 +1,62 @@
+.center{
+    width:100%;
+    text-align:center;
+}
+.container-fluid{
+    width:100%;
+    background-color:black;
+    
+}
+
+.scheduale{
+    max-width:1500px;
+    margin:0 auto;
+   
+    display:inline-block;
+    color:white;
+  
+}
+.legend{
+display:inline-block;
+top:0;
+color:white;
+}
+tr{
+    
+    border: 1px solid #ddd;
+}
+th{
+    
+    border-width:2px;
+    width:214px;
+    height:38px;
+    border: 4px solid #ddd;
+}
+td{
+    border: 4px solid #ddd;
+    height:38px;
+}
+.tajweedrijal{
+background-color:orange;
+}
+.tajweedatfal{
+background-color:red;
+}
+.tajweednisa{
+background-color:green;
+}
+.taqwa{
+    background-color:gray;
+}
+.chicagotajweed{
+    background-color:blue;
+}
+html{
+    background-color:black;
+}
+.tajweednisataqwa{
+    background-color:brown;
+}
+.chicagoosool{
+    background-color:purple;
+}
